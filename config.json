@@ -1,12 +1,9 @@
 {
-  "serverIP": "mc.quiltanarchy.xyz",
-  "dupeBotPassword": "/lasd524163",
+  "serverIP": "serverip",
+  "dupeBotPassword": "pass",
   "admins": [
-    "zPeaw",
-    "dorw",
-    "legacytsla",
-    "Katana"
+    "u name",
   ],
-  "username": "DupeBotzp62",
-  "msgBotUsername": "MsgBotzp62"
+  "username": "botname",
+  "msgBotUsername": "botname2"
 }
