@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+config.json
+msgbotmesaj.json
+.env
+.DS_Store
+*.log
+
+# Rust
+target/
+**/target/
+target*/
+**/target*/
+**/*.rs.bk

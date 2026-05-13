@@ -1,0 +1,24 @@
+{
+  "name": "mcbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yeni_bot.js",
+  "scripts": {
+    "start": "node yeni_bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "express": "^5.2.1",
+    "mineflayer": "^4.37.0",
+    "mineflayer-auto-auth": "^2.0.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "prismarine-viewer": "^1.33.0",
+    "socket.io": "^4.8.3",
+    "vec3": "^0.2.0"
+  }
+}
